@@ -1,0 +1,306 @@
+=== BANG CHUNG CHAY THUC NGHIEM CHI TIET TUNG LAN ===
+============================================================
+TRANG THAI BAN CO: X sap thang
+Cau truc board: ['x', 'o', ' ', 'o', 'x', ' ', ' ', ' ', ' ']
+============================================================
+
+  >> Cau hinh N = 10 (Chay 10 lan):
+  --------------------------------------------------
+    Lan chay 01: Nuoc di duoc chon = 6 | Thoi gian = 0.004246 giay
+    Lan chay 02: Nuoc di duoc chon = 2 | Thoi gian = 0.002076 giay
+    Lan chay 03: Nuoc di duoc chon = 2 | Thoi gian = 0.002027 giay
+    Lan chay 04: Nuoc di duoc chon = 2 | Thoi gian = 0.001813 giay
+    Lan chay 05: Nuoc di duoc chon = 2 | Thoi gian = 0.002257 giay
+    Lan chay 06: Nuoc di duoc chon = 2 | Thoi gian = 0.001734 giay
+    Lan chay 07: Nuoc di duoc chon = 2 | Thoi gian = 0.001882 giay
+    Lan chay 08: Nuoc di duoc chon = 2 | Thoi gian = 0.001645 giay
+    Lan chay 09: Nuoc di duoc chon = 6 | Thoi gian = 0.001794 giay
+    Lan chay 10: Nuoc di duoc chon = 2 | Thoi gian = 0.001745 giay
+  --------------------------------------------------
+    => KET QUA TONG HOP CHO N = 10:
+       + Cac nuoc di da thu: {6: 2, 2: 8}
+       + Nuoc di pho bien nhat: [(2, 8)]
+       + Thoi gian trung binh: 0.002122 giay
+
+
+  >> Cau hinh N = 100 (Chay 10 lan):
+  --------------------------------------------------
+    Lan chay 01: Nuoc di duoc chon = 6 | Thoi gian = 0.017160 giay
+    Lan chay 02: Nuoc di duoc chon = 2 | Thoi gian = 0.023214 giay
+    Lan chay 03: Nuoc di duoc chon = 8 | Thoi gian = 0.031697 giay
+    Lan chay 04: Nuoc di duoc chon = 8 | Thoi gian = 0.032357 giay
+    Lan chay 05: Nuoc di duoc chon = 8 | Thoi gian = 0.034204 giay
+    Lan chay 06: Nuoc di duoc chon = 8 | Thoi gian = 0.031165 giay
+    Lan chay 07: Nuoc di duoc chon = 2 | Thoi gian = 0.030456 giay
+    Lan chay 08: Nuoc di duoc chon = 8 | Thoi gian = 0.034756 giay
+    Lan chay 09: Nuoc di duoc chon = 8 | Thoi gian = 0.031916 giay
+    Lan chay 10: Nuoc di duoc chon = 8 | Thoi gian = 0.031483 giay
+  --------------------------------------------------
+    => KET QUA TONG HOP CHO N = 100:
+       + Cac nuoc di da thu: {6: 1, 2: 2, 8: 7}
+       + Nuoc di pho bien nhat: [(8, 7)]
+       + Thoi gian trung binh: 0.029841 giay
+
+
+  >> Cau hinh N = 1000 (Chay 10 lan):
+  --------------------------------------------------
+    Lan chay 01: Nuoc di duoc chon = 8 | Thoi gian = 0.307021 giay
+    Lan chay 02: Nuoc di duoc chon = 8 | Thoi gian = 0.205247 giay
+    Lan chay 03: Nuoc di duoc chon = 8 | Thoi gian = 0.223685 giay
+    Lan chay 04: Nuoc di duoc chon = 8 | Thoi gian = 0.197700 giay
+    Lan chay 05: Nuoc di duoc chon = 8 | Thoi gian = 0.184356 giay
+    Lan chay 06: Nuoc di duoc chon = 8 | Thoi gian = 0.191694 giay
+    Lan chay 07: Nuoc di duoc chon = 8 | Thoi gian = 0.206971 giay
+    Lan chay 08: Nuoc di duoc chon = 8 | Thoi gian = 0.184760 giay
+    Lan chay 09: Nuoc di duoc chon = 8 | Thoi gian = 0.281772 giay
+    Lan chay 10: Nuoc di duoc chon = 8 | Thoi gian = 0.183554 giay
+  --------------------------------------------------
+    => KET QUA TONG HOP CHO N = 1000:
+       + Cac nuoc di da thu: {8: 10}
+       + Nuoc di pho bien nhat: [(8, 10)]
+       + Thoi gian trung binh: 0.216676 giay
+
+============================================================
+TRANG THAI BAN CO: Can chan O
+Cau truc board: ['o', 'o', ' ', 'o', 'x', ' ', ' ', ' ', 'x']
+============================================================
+
+  >> Cau hinh N = 10 (Chay 10 lan):
+  --------------------------------------------------
+    Lan chay 01: Nuoc di duoc chon = 6 | Thoi gian = 0.001620 giay
+    Lan chay 02: Nuoc di duoc chon = 2 | Thoi gian = 0.001508 giay
+    Lan chay 03: Nuoc di duoc chon = 2 | Thoi gian = 0.001891 giay
+    Lan chay 04: Nuoc di duoc chon = 2 | Thoi gian = 0.001522 giay
+    Lan chay 05: Nuoc di duoc chon = 2 | Thoi gian = 0.001675 giay
+    Lan chay 06: Nuoc di duoc chon = 2 | Thoi gian = 0.001965 giay
+    Lan chay 07: Nuoc di duoc chon = 2 | Thoi gian = 0.001570 giay
+    Lan chay 08: Nuoc di duoc chon = 5 | Thoi gian = 0.001775 giay
+    Lan chay 09: Nuoc di duoc chon = 2 | Thoi gian = 0.001919 giay
+    Lan chay 10: Nuoc di duoc chon = 2 | Thoi gian = 0.002336 giay
+  --------------------------------------------------
+    => KET QUA TONG HOP CHO N = 10:
+       + Cac nuoc di da thu: {6: 1, 2: 8, 5: 1}
+       + Nuoc di pho bien nhat: [(2, 8)]
+       + Thoi gian trung binh: 0.001778 giay
+
+
+  >> Cau hinh N = 100 (Chay 10 lan):
+  --------------------------------------------------
+    Lan chay 01: Nuoc di duoc chon = 2 | Thoi gian = 0.014846 giay
+    Lan chay 02: Nuoc di duoc chon = 2 | Thoi gian = 0.012016 giay
+    Lan chay 03: Nuoc di duoc chon = 6 | Thoi gian = 0.011459 giay
+    Lan chay 04: Nuoc di duoc chon = 2 | Thoi gian = 0.012751 giay
+    Lan chay 05: Nuoc di duoc chon = 2 | Thoi gian = 0.012024 giay
+    Lan chay 06: Nuoc di duoc chon = 2 | Thoi gian = 0.013330 giay
+    Lan chay 07: Nuoc di duoc chon = 6 | Thoi gian = 0.011474 giay
+    Lan chay 08: Nuoc di duoc chon = 2 | Thoi gian = 0.013405 giay
+    Lan chay 09: Nuoc di duoc chon = 6 | Thoi gian = 0.013556 giay
+    Lan chay 10: Nuoc di duoc chon = 6 | Thoi gian = 0.013496 giay
+  --------------------------------------------------
+    => KET QUA TONG HOP CHO N = 100:
+       + Cac nuoc di da thu: {2: 6, 6: 4}
+       + Nuoc di pho bien nhat: [(2, 6)]
+       + Thoi gian trung binh: 0.012836 giay
+
+
+  >> Cau hinh N = 1000 (Chay 10 lan):
+  --------------------------------------------------
+    Lan chay 01: Nuoc di duoc chon = 2 | Thoi gian = 0.153832 giay
+    Lan chay 02: Nuoc di duoc chon = 2 | Thoi gian = 0.137123 giay
+    Lan chay 03: Nuoc di duoc chon = 2 | Thoi gian = 0.117527 giay
+    Lan chay 04: Nuoc di duoc chon = 2 | Thoi gian = 0.118834 giay
+    Lan chay 05: Nuoc di duoc chon = 6 | Thoi gian = 0.122416 giay
+    Lan chay 06: Nuoc di duoc chon = 2 | Thoi gian = 0.179204 giay
+    Lan chay 07: Nuoc di duoc chon = 2 | Thoi gian = 0.202805 giay
+    Lan chay 08: Nuoc di duoc chon = 2 | Thoi gian = 0.211624 giay
+    Lan chay 09: Nuoc di duoc chon = 6 | Thoi gian = 0.199314 giay
+    Lan chay 10: Nuoc di duoc chon = 2 | Thoi gian = 0.199991 giay
+  --------------------------------------------------
+    => KET QUA TONG HOP CHO N = 1000:
+       + Cac nuoc di da thu: {2: 8, 6: 2}
+       + Nuoc di pho bien nhat: [(2, 8)]
+       + Thoi gian trung binh: 0.164267 giay
+
+============================================================
+TRANG THAI BAN CO: Co the hoa
+Cau truc board: ['x', 'o', 'x', ' ', 'o', ' ', ' ', ' ', ' ']
+============================================================
+
+  >> Cau hinh N = 10 (Chay 10 lan):
+  --------------------------------------------------
+    Lan chay 01: Nuoc di duoc chon = 7 | Thoi gian = 0.003972 giay
+    Lan chay 02: Nuoc di duoc chon = 5 | Thoi gian = 0.003496 giay
+    Lan chay 03: Nuoc di duoc chon = 7 | Thoi gian = 0.004365 giay
+    Lan chay 04: Nuoc di duoc chon = 6 | Thoi gian = 0.003900 giay
+    Lan chay 05: Nuoc di duoc chon = 6 | Thoi gian = 0.003938 giay
+    Lan chay 06: Nuoc di duoc chon = 5 | Thoi gian = 0.003407 giay
+    Lan chay 07: Nuoc di duoc chon = 7 | Thoi gian = 0.003361 giay
+    Lan chay 08: Nuoc di duoc chon = 6 | Thoi gian = 0.004217 giay
+    Lan chay 09: Nuoc di duoc chon = 8 | Thoi gian = 0.004728 giay
+    Lan chay 10: Nuoc di duoc chon = 6 | Thoi gian = 0.003730 giay
+  --------------------------------------------------
+    => KET QUA TONG HOP CHO N = 10:
+       + Cac nuoc di da thu: {7: 3, 5: 2, 6: 4, 8: 1}
+       + Nuoc di pho bien nhat: [(6, 4)]
+       + Thoi gian trung binh: 0.003911 giay
+
+
+  >> Cau hinh N = 100 (Chay 10 lan):
+  --------------------------------------------------
+    Lan chay 01: Nuoc di duoc chon = 7 | Thoi gian = 0.036002 giay
+    Lan chay 02: Nuoc di duoc chon = 5 | Thoi gian = 0.037348 giay
+    Lan chay 03: Nuoc di duoc chon = 7 | Thoi gian = 0.036262 giay
+    Lan chay 04: Nuoc di duoc chon = 6 | Thoi gian = 0.034877 giay
+    Lan chay 05: Nuoc di duoc chon = 7 | Thoi gian = 0.036617 giay
+    Lan chay 06: Nuoc di duoc chon = 7 | Thoi gian = 0.038694 giay
+    Lan chay 07: Nuoc di duoc chon = 3 | Thoi gian = 0.033432 giay
+    Lan chay 08: Nuoc di duoc chon = 7 | Thoi gian = 0.037033 giay
+    Lan chay 09: Nuoc di duoc chon = 7 | Thoi gian = 0.037953 giay
+    Lan chay 10: Nuoc di duoc chon = 3 | Thoi gian = 0.035956 giay
+  --------------------------------------------------
+    => KET QUA TONG HOP CHO N = 100:
+       + Cac nuoc di da thu: {7: 6, 5: 1, 6: 1, 3: 2}
+       + Nuoc di pho bien nhat: [(7, 6)]
+       + Thoi gian trung binh: 0.036417 giay
+
+
+  >> Cau hinh N = 1000 (Chay 10 lan):
+  --------------------------------------------------
+    Lan chay 01: Nuoc di duoc chon = 7 | Thoi gian = 0.362847 giay
+    Lan chay 02: Nuoc di duoc chon = 7 | Thoi gian = 0.349402 giay
+    Lan chay 03: Nuoc di duoc chon = 7 | Thoi gian = 0.338871 giay
+    Lan chay 04: Nuoc di duoc chon = 7 | Thoi gian = 0.359752 giay
+    Lan chay 05: Nuoc di duoc chon = 7 | Thoi gian = 0.344302 giay
+    Lan chay 06: Nuoc di duoc chon = 7 | Thoi gian = 0.347542 giay
+    Lan chay 07: Nuoc di duoc chon = 7 | Thoi gian = 0.291840 giay
+    Lan chay 08: Nuoc di duoc chon = 7 | Thoi gian = 0.198977 giay
+    Lan chay 09: Nuoc di duoc chon = 7 | Thoi gian = 0.196641 giay
+    Lan chay 10: Nuoc di duoc chon = 7 | Thoi gian = 0.217154 giay
+  --------------------------------------------------
+    => KET QUA TONG HOP CHO N = 1000:
+       + Cac nuoc di da thu: {7: 10}
+       + Nuoc di pho bien nhat: [(7, 10)]
+       + Thoi gian trung binh: 0.300733 giay
+
+============================================================
+TRANG THAI BAN CO: The co bat loi
+Cau truc board: ['o', ' ', 'x', ' ', ' ', ' ', ' ', ' ', 'o']
+============================================================
+
+  >> Cau hinh N = 10 (Chay 10 lan):
+  --------------------------------------------------
+    Lan chay 01: Nuoc di duoc chon = 4 | Thoi gian = 0.002497 giay
+    Lan chay 02: Nuoc di duoc chon = 4 | Thoi gian = 0.002613 giay
+    Lan chay 03: Nuoc di duoc chon = 4 | Thoi gian = 0.002542 giay
+    Lan chay 04: Nuoc di duoc chon = 4 | Thoi gian = 0.002724 giay
+    Lan chay 05: Nuoc di duoc chon = 4 | Thoi gian = 0.001432 giay
+    Lan chay 06: Nuoc di duoc chon = 1 | Thoi gian = 0.002381 giay
+    Lan chay 07: Nuoc di duoc chon = 3 | Thoi gian = 0.002485 giay
+    Lan chay 08: Nuoc di duoc chon = 4 | Thoi gian = 0.002040 giay
+    Lan chay 09: Nuoc di duoc chon = 4 | Thoi gian = 0.002989 giay
+    Lan chay 10: Nuoc di duoc chon = 1 | Thoi gian = 0.002740 giay
+  --------------------------------------------------
+    => KET QUA TONG HOP CHO N = 10:
+       + Cac nuoc di da thu: {4: 7, 1: 2, 3: 1}
+       + Nuoc di pho bien nhat: [(4, 7)]
+       + Thoi gian trung binh: 0.002444 giay
+
+
+  >> Cau hinh N = 100 (Chay 10 lan):
+  --------------------------------------------------
+    Lan chay 01: Nuoc di duoc chon = 6 | Thoi gian = 0.036360 giay
+    Lan chay 02: Nuoc di duoc chon = 4 | Thoi gian = 0.036307 giay
+    Lan chay 03: Nuoc di duoc chon = 4 | Thoi gian = 0.035340 giay
+    Lan chay 04: Nuoc di duoc chon = 4 | Thoi gian = 0.039174 giay
+    Lan chay 05: Nuoc di duoc chon = 4 | Thoi gian = 0.038448 giay
+    Lan chay 06: Nuoc di duoc chon = 4 | Thoi gian = 0.036979 giay
+    Lan chay 07: Nuoc di duoc chon = 4 | Thoi gian = 0.034608 giay
+    Lan chay 08: Nuoc di duoc chon = 4 | Thoi gian = 0.038081 giay
+    Lan chay 09: Nuoc di duoc chon = 6 | Thoi gian = 0.035973 giay
+    Lan chay 10: Nuoc di duoc chon = 4 | Thoi gian = 0.034626 giay
+  --------------------------------------------------
+    => KET QUA TONG HOP CHO N = 100:
+       + Cac nuoc di da thu: {6: 2, 4: 8}
+       + Nuoc di pho bien nhat: [(4, 8)]
+       + Thoi gian trung binh: 0.036590 giay
+
+
+  >> Cau hinh N = 1000 (Chay 10 lan):
+  --------------------------------------------------
+    Lan chay 01: Nuoc di duoc chon = 4 | Thoi gian = 0.269835 giay
+    Lan chay 02: Nuoc di duoc chon = 4 | Thoi gian = 0.393010 giay
+    Lan chay 03: Nuoc di duoc chon = 4 | Thoi gian = 0.396587 giay
+    Lan chay 04: Nuoc di duoc chon = 4 | Thoi gian = 0.247323 giay
+    Lan chay 05: Nuoc di duoc chon = 4 | Thoi gian = 0.233262 giay
+    Lan chay 06: Nuoc di duoc chon = 4 | Thoi gian = 0.222554 giay
+    Lan chay 07: Nuoc di duoc chon = 4 | Thoi gian = 0.231307 giay
+    Lan chay 08: Nuoc di duoc chon = 4 | Thoi gian = 0.356338 giay
+    Lan chay 09: Nuoc di duoc chon = 4 | Thoi gian = 0.375246 giay
+    Lan chay 10: Nuoc di duoc chon = 4 | Thoi gian = 0.383390 giay
+  --------------------------------------------------
+    => KET QUA TONG HOP CHO N = 1000:
+       + Cac nuoc di da thu: {4: 10}
+       + Nuoc di pho bien nhat: [(4, 10)]
+       + Thoi gian trung binh: 0.310885 giay
+
+============================================================
+TRANG THAI BAN CO: Ban co trong
+Cau truc board: [' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ']
+============================================================
+
+  >> Cau hinh N = 10 (Chay 10 lan):
+  --------------------------------------------------
+    Lan chay 01: Nuoc di duoc chon = 0 | Thoi gian = 0.003877 giay
+    Lan chay 02: Nuoc di duoc chon = 0 | Thoi gian = 0.004314 giay
+    Lan chay 03: Nuoc di duoc chon = 2 | Thoi gian = 0.004026 giay
+    Lan chay 04: Nuoc di duoc chon = 1 | Thoi gian = 0.006763 giay
+    Lan chay 05: Nuoc di duoc chon = 3 | Thoi gian = 0.006996 giay
+    Lan chay 06: Nuoc di duoc chon = 0 | Thoi gian = 0.007712 giay
+    Lan chay 07: Nuoc di duoc chon = 0 | Thoi gian = 0.006808 giay
+    Lan chay 08: Nuoc di duoc chon = 0 | Thoi gian = 0.007359 giay
+    Lan chay 09: Nuoc di duoc chon = 1 | Thoi gian = 0.006139 giay
+    Lan chay 10: Nuoc di duoc chon = 1 | Thoi gian = 0.003974 giay
+  --------------------------------------------------
+    => KET QUA TONG HOP CHO N = 10:
+       + Cac nuoc di da thu: {0: 5, 2: 1, 1: 3, 3: 1}
+       + Nuoc di pho bien nhat: [(0, 5)]
+       + Thoi gian trung binh: 0.005797 giay
+
+
+  >> Cau hinh N = 100 (Chay 10 lan):
+  --------------------------------------------------
+    Lan chay 01: Nuoc di duoc chon = 2 | Thoi gian = 0.044271 giay
+    Lan chay 02: Nuoc di duoc chon = 3 | Thoi gian = 0.040540 giay
+    Lan chay 03: Nuoc di duoc chon = 2 | Thoi gian = 0.041166 giay
+    Lan chay 04: Nuoc di duoc chon = 8 | Thoi gian = 0.061875 giay
+    Lan chay 05: Nuoc di duoc chon = 0 | Thoi gian = 0.073132 giay
+    Lan chay 06: Nuoc di duoc chon = 2 | Thoi gian = 0.073138 giay
+    Lan chay 07: Nuoc di duoc chon = 8 | Thoi gian = 0.074595 giay
+    Lan chay 08: Nuoc di duoc chon = 1 | Thoi gian = 0.070797 giay
+    Lan chay 09: Nuoc di duoc chon = 8 | Thoi gian = 0.068869 giay
+    Lan chay 10: Nuoc di duoc chon = 0 | Thoi gian = 0.071491 giay
+  --------------------------------------------------
+    => KET QUA TONG HOP CHO N = 100:
+       + Cac nuoc di da thu: {2: 3, 3: 1, 8: 3, 0: 2, 1: 1}
+       + Nuoc di pho bien nhat: [(2, 3)]
+       + Thoi gian trung binh: 0.061987 giay
+
+
+  >> Cau hinh N = 1000 (Chay 10 lan):
+  --------------------------------------------------
+    Lan chay 01: Nuoc di duoc chon = 4 | Thoi gian = 0.627948 giay
+    Lan chay 02: Nuoc di duoc chon = 4 | Thoi gian = 0.431777 giay
+    Lan chay 03: Nuoc di duoc chon = 8 | Thoi gian = 0.461788 giay
+    Lan chay 04: Nuoc di duoc chon = 4 | Thoi gian = 0.415623 giay
+    Lan chay 05: Nuoc di duoc chon = 4 | Thoi gian = 0.429901 giay
+    Lan chay 06: Nuoc di duoc chon = 4 | Thoi gian = 0.656193 giay
+    Lan chay 07: Nuoc di duoc chon = 4 | Thoi gian = 0.430545 giay
+    Lan chay 08: Nuoc di duoc chon = 8 | Thoi gian = 0.433654 giay
+    Lan chay 09: Nuoc di duoc chon = 4 | Thoi gian = 0.608460 giay
+    Lan chay 10: Nuoc di duoc chon = 4 | Thoi gian = 0.441826 giay
+  --------------------------------------------------
+    => KET QUA TONG HOP CHO N = 1000:
+       + Cac nuoc di da thu: {4: 8, 8: 2}
+       + Nuoc di pho bien nhat: [(4, 8)]
+       + Thoi gian trung binh: 0.493771 giay
+
