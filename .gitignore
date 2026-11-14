@@ -1,0 +1,54 @@
+# ==========================================
+# 1. Trọng số Mô hình (Model Weights)
+# Chặn đẩy các file checkpoint nặng lên GitHub
+# ==========================================
+models/weights/
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+*.pb
+
+# ==========================================
+# 2. Dữ liệu Huấn luyện & Replay Buffer
+# Dữ liệu hàng ngàn ván self-play sinh ra liên tục
+# ==========================================
+training/data/
+*.pkl
+*.npy
+*.npz
+
+# ==========================================
+# 3. Logs và Metrics
+# Dữ liệu biểu đồ TensorBoard hoặc file log terminal
+# ==========================================
+logs/
+runs/
+*.log
+
+# ==========================================
+# 4. Môi trường Python & Cache Biên dịch
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+venv/
+env/
+.env
+
+# ==========================================
+# 5. Jupyter Notebook
+# Các bản lưu tạm khi vẽ biểu đồ benchmark
+# ==========================================
+.ipynb_checkpoints/
+
+# ==========================================
+# 6. Cấu hình IDE & Hệ điều hành
+# Tránh xung đột cài đặt VS Code/PyCharm giữa 4 người
+# ==========================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
